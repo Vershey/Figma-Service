@@ -18,6 +18,6 @@
                 <element inactive_on_update="false" label="PRODUCT 1" sequence="0" value="PRODUCT 1"/>
             </choice>
         </element>
-        <element default="Amirthavarshan Narayanan" label="Legal Entity Name" max_length="40" name="legal_entity_name" type="string_full_utf8"/>
+        <element default="Amirthavarshan" label="Legal Entity Name" max_length="40" name="legal_entity_name" type="string_full_utf8"/>
     </element>
 </database>
