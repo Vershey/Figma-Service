@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="7222f95683102a109a6cc7b6feaad315" label="Figma-ServiceNow" max_length="40" name="x_1625773_andoru_0_figma_servicenow" type="collection">
-        <element default="Narata" label="Last Name" max_length="40" name="last_name" type="string"/>
+        <element default="Nara" label="Last Name" max_length="40" name="last_name" type="string"/>
         <element default="498710" label="Expiring Policy Number" max_length="255" name="expiring_policy_number" type="integer"/>
         <element default="mailme.amruth@gmail.com" label="Email" max_length="40" name="email" type="string"/>
         <element choice="3" display="true" label="Product" max_length="40" name="product" type="choice">
