@@ -8,7 +8,7 @@
         <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Phone Number</column_label>
+        <column_label>Mobile Number</column_label>
         <comments/>
         <create_roles/>
         <default_value>+1 (404)-974-6039</default_value>
