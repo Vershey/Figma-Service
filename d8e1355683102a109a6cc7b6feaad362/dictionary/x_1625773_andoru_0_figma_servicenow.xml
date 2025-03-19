@@ -18,11 +18,6 @@
                 <element inactive_on_update="false" label="PRODUCT 1" sequence="0" value="PRODUCT 1"/>
             </choice>
         </element>
-        <element default="Amirthavarshan" label="Legal Entity Name" max_length="40" name="legal_entity_name" type="string_full_utf8"/>
-        <element choice="3" display="true" label="Services Choice" max_length=40 name="services" type="choice">
-            <choice>
-            <element inactive_on_update="false" label="AWS" sequence="0" value="aws"/>
-                <element inactive_on_update="false" label="Azure" sequence="1" value="azure"/>
-        </choice>
-             </element>
-           </database>
+        <element default="Varshan" label="Legal Entity Name" max_length="40" name="legal_entity_name" type="string_full_utf8"/>
+    </element>
+    </database>
