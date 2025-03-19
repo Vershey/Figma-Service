@@ -22,7 +22,7 @@
         <element choice="3" display="true" label="Service" max_length="40 name="service" type="choice">
             <choice>
                 <element inactive_on_update="false" label="AWS" sequence="0" value="aws"/>
-                <element inactive_on_update="false" label="Azure" sequence="0" value="azure"/>
+                <element inactive_on_update="false" label="Azure" sequence="1" value="azure"/>
             </choice>
                 
     </element>
