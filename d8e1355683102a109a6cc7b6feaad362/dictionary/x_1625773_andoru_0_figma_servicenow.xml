@@ -19,6 +19,8 @@
             </choice>
         </element>
         <element default="Amirthavarshan" label="Legal Entity Name" max_length="40" name="legal_entity_name" type="string_full_utf8"/>
+        <element default="9800" label="Currency Name" max_length="14" name="currency_name" type="currency"/>
+    </element>
     
     
     </element>
