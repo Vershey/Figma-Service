@@ -19,7 +19,7 @@
             </choice>
         </element>
         <element default="Amirthavarshan" label="Legal Entity Name" max_length="40" name="legal_entity_name" type="string_full_utf8"/>
-        <element default="Yellow" label="Colour Name"  max_length="40" name="colour_name" type="Color"/>
-    </element>
+    
+    
     </element>
 </database>
