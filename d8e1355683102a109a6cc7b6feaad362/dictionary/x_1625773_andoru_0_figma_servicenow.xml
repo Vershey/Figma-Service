@@ -19,5 +19,11 @@
             </choice>
         </element>
         <element default="Varshan" label="Legal Entity Name" max_length="40" name="legal_entity_name" type="string_full_utf8"/>
+        <element choice="3" display="true" label="Service" max_length="40 name="service" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="AWS" sequence="0" value="aws"/>
+                <element inactive_on_update="false" label="Azure" sequence="0" value="azure"/>
+            </choice>
+                
     </element>
     </database>
